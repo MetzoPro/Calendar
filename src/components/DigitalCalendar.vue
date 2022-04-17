@@ -232,7 +232,7 @@
                 :min-height="100"
                 aria-placeholder="add note"
                 >
-                </textarea>-->
+                </textarea>
               </form>
             </v-card-text>
             <v-card-actions>

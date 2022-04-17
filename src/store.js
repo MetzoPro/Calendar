@@ -889,10 +889,712 @@ const state = {
         color: "green",
         details: "Deze afspraak bevat een videogesprek. Deelnemen: https://meet.google.com/mad-eweu-ztz" 
 	},
+
+	{
+        id:96,
+		name: "Meeting with your Teacher, Lucas BRIGNON",
+		start: "2022-03-04 14:00", 
+		end: "2022-03-04 14:30",
+        color: "green",
+        details: "Follow-up 1 [1]  In groups, discuss the progress of your project [2] with your referent.    Links: ------ [1] https://gandalf.epitech.eu/mod/scheduler/view.php?id=4364 [2] https://gandalf.epitech.eu/mod/assign/view.php?id=4363 " 
+	},
+
+	{
+        id:97,
+		name: "Temps de projets : salle 203",
+		start: "2022-03-04 14:30", 
+		end: "2022-03-04 17:30",
+        color: "green",
+        details: "" 
+	},
+
+	{
+        id:98,
+		name: "ENTREPRISE",
+		start: "2022-03-07 00:00", 
+		end: "2022-03-10 00:30",
+        color: "green",
+        details: "" 
+	},
+
 	
+	{
+        id:99,
+		name: "Projets",
+		start: "2022-03-10 09:00", 
+		end: "2022-03-10 17:30",
+        color: "green",
+        details: "" 
+	},
 
+	{
+        id:100,
+		name: "Présentation des langages Web - Baptiste Fehrenbach : salle 203",
+		start: "2022-03-11 09:00", 
+		end: "2022-03-11 17:30",
+        color: "green",
+        details: "Deze afspraak bevat een videogesprek. Deelnemen: https://meet.google.com/fkz-zirv-hkk" 
+	},
 
+	{
+        id:101,
+		name: "Création et Gestion d'entreprise - Christian Kosiek : salle 203",
+		start: "2022-03-11 14:00", 
+		end: "2022-03-11 17:30",
+        color: "green",
+        details: "" 
+	},
 
+	{
+        id:102,
+		name: "ENTREPRISE",
+		start: "2022-03-14 00:00", 
+		end: "2022-03-17 00:00",
+        color: "green",
+        details: "" 
+	},
+
+	{
+        id:103,
+		name: "Projets",
+		start: "2022-03-17 09:30", 
+		end: "2022-03-17 17:30",
+        color: "green",
+        details: "" 
+	},
+
+	{
+        id:104,
+		name: "Présentation des langages Web - Baptiste Fehrenbach",
+		start: "2022-03-17 09:00", 
+		end: "2022-03-17 13:00",
+        color: "green",
+        details: "Deze afspraak bevat een videogesprek. Deelnemen: https://meet.google.com/qif-mnyc-ncc" 
+	},
+
+	{
+        id:105,
+		name: "Digitalendar Bootstrap 2",
+		start: "2022-03-17 14:00", 
+		end: "2022-03-17 17:30",
+        color: "green",
+        details: "" 
+	},
+
+	{
+        id:106,
+		name: "Digitalendar Bootstrap 2",
+		start: "2022-03-18 09:30", 
+		end: "2022-03-18 13:00",
+        color: "green",
+        details: "" 
+	},
+
+	{
+        id:107,
+		name: "Meeting with your Teacher, Lucas BRIGNON",
+		start: "2022-03-18 11:30", 
+		end: "2022-03-18 12:00",
+        color: "green",
+        details: "Follow-up 1 [1]  In groups, discuss the progress of your project [2] with your referent.    Links: ------ [1] https://gandalf.epitech.eu/mod/scheduler/view.php?id=4364 [2] https://gandalf.epitech.eu/mod/assign/view.php?id=4363" 
+	},
+
+	{
+        id:107,
+		name: "Création et Gestion d'entreprise - Christian Kosiek",
+		start: "2022-03-18 14:00", 
+		end: "2022-03-18 17:30",
+        color: "green",
+        details: "" 
+	},
+
+	{
+        id:108,
+		name: "ENTREPRISE",
+		start: "2022-03-21 00:00", 
+		end: "2022-03-24 00:00",
+        color: "green",
+        details: "" 
+	},
+
+	{
+        id:109,
+		name: "Temps de projets / Coaching avec CÃ©cile Coursol",
+		start: "2022-03-24 09:30", 
+		end: "2022-03-24 17:30",
+        color: "green",
+        details: "" 
+	},
+
+	{
+        id:110,
+		name: "Digitalendar Bootstrap 3",
+		start: "2022-03-24 14:00", 
+		end: "2022-03-24 17:30",
+        color: "green",
+        details: "" 
+	},
+
+	{
+        id:111,
+		name: "Développement d'entreprise - Nour Ezzedeen",
+		start: "2022-03-25 09:30", 
+		end: "2022-03-25 13:00",
+        color: "green",
+        details: "Deze afspraak bevat een videogesprek. Deelnemen: https://meet.google.com/rxr-prez-dqj" 
+	},
+
+	{
+        id:112,
+		name: "Création et Gestion d'entreprise - Christian Kosiek",
+		start: "2022-03-25 14:00", 
+		end: "2022-03-25 17:30",
+        color: "green",
+        details: "" 
+	},
+
+	{
+        id:113,
+		name: "ENTREPRISE",
+		start: "2022-03-28 00:00", 
+		end: "2022-03-31 00:00",
+        color: "green",
+        details: "" 
+	},
+
+	{
+        id:114,
+		name: "Projets",
+		start: "2022-03-31 09:30", 
+		end: "2022-03-31 17:30",
+        color: "green",
+        details: "" 
+	},
+
+	{
+        id:115,
+		name: "Stratégies en Design d'Innovation - Nicolas Bry",
+		start: "2022-04-01 09:30", 
+		end: "2022-04-01 13:00",
+        color: "green",
+        details: "" 
+	},
+
+	{
+        id:116,
+		name: "Création et Gestion d'entreprise - Christian Kosiek",
+		start: "2022-04-01 14:00", 
+		end: "2022-04-01 17:30",
+        color: "green",
+        details: "" 
+	},
+
+	{
+        id:117,
+		name: "ENTREPRISE",
+		start: "2022-04-04 00:00", 
+		end: "2022-04-07 00:00",
+        color: "green",
+        details: "" 
+	},
+
+	{
+        id:118,
+		name: "Projets",
+		start: "2022-04-07 09:30", 
+		end: "2022-04-07 17:30",
+        color: "green",
+        details: "" 
+	},
+
+	{
+        id:119,
+		name: "Développement d'entreprise - Nour Ezzedeen",
+		start: "2022-04-08 09:30", 
+		end: "2022-04-08 13:00",
+        color: "green",
+        details: "Deze afspraak bevat een videogesprek. Deelnemen: https://meet.google.com/aah-vxxc-vtj" 
+	},
+
+	{
+        id:120,
+		name: "Project is due",
+		start: "2022-04-10 23:42", 
+		end: "2022-04-10 23:42",
+        color: "green",
+        details: "Find here YOUR MISSION and submit your FINAL DELIVERY ON GITHUB  \t*  \t* Refer toÂ the general documentation [1] Â to improve the qualityof your project [2]'s delivery with a README  \t* All files and documentsrelated to this project should always be present on your repository    Links: ------ [1] https://merlin.epitech.eu/course/search.php?q=starter+pack&amp\\;areaids=core_course-course [2] https://gandalf.epitech.eu/mod/assign/view.php?id=4684" 
+	},
+
+	{
+        id:121,
+		name: "ENTREPRISE",
+		start: "2022-04-11 00:00", 
+		end: "2022-04-14 00:00",
+        color: "green",
+        details: "" 
+	},
+
+	{
+        id:122,
+		name: "Content feedback opens",
+		start: "2022-04-11 09:00", 
+		end: "2022-04-11 09:00",
+        color: "green",
+        details: "* You can share with us your thoughts and opinions regarding THE CONTENT of this course \t* This feedback contains 6 MCQ and 3 open questions -> estimated time 5-10 min \t* Course creators will consider your feedbacks to improve the quality of this course \t* Give freely your opinion, but moderate yourself to stay constructive \t* All submitted feedback areÂ ANONYMOUS  " 
+	},
+
+	{
+        id:123,
+		name: "Projets / Keynote Digitalendar",
+		start: "2022-04-14 09:30", 
+		end: "2022-04-14 17:30",
+        color: "green",
+        details: "" 
+	},
+
+	{
+        id:124,
+		name: "Développement d'entreprise - Nour Ezzedeen",
+		start: "2022-04-15 09:30", 
+		end: "2022-04-15 13:00",
+        color: "green",
+        details: "Deze afspraak bevat een videogesprek. Deelnemen: https://meet.google.com/qab-jnsu-xcr" 
+	},
+
+	{
+        id:125,
+		name: "JOUR FERIE",
+		start: "2022-04-18 00:00", 
+		end: "2022-04-18 00:00",
+        color: "green",
+        details: "" 
+	},
+
+	{
+        id:126,
+		name: "ENTREPRISE",
+		start: "2022-04-19 00:00", 
+		end: "2022-04-21 00:00",
+        color: "green",
+        details: "" 
+	},
+
+	{
+        id:127,
+		name: "Projets",
+		start: "2022-04-21 09:30", 
+		end: "2022-04-21 17:30",
+        color: "green",
+        details: "" 
+	},
+
+	{
+        id:128,
+		name: "Stratégies en Design d'Innovation - Nicolas Bry",
+		start: "2022-04-22 09:30", 
+		end: "2022-04-22 13:00",
+        color: "green",
+        details: "" 
+	},
+
+	
+	{
+        id:129,
+		name: "Content feedback closes",
+		start: "2022-04-24 23:42", 
+		end: "2022-04-24 23:42",
+        color: "green",
+        details: "* You can share with us your thoughts and opinions regarding THE CONTENT of this course \t* This feedback contains 6 MCQ and 3 open questions -> estimated time 5-10 min \t* Course creators will consider your feedbacks to improve the quality of this course \t* Give freely your opinion, but moderate yourself to stay constructive \t* All submitted feedback areÂ ANONYMOUS  " 
+	},
+
+	{
+        id:130,
+		name: "ENTREPRISE",
+		start: "2022-04-25 00:00", 
+		end: "2022-04-28 00:00",
+        color: "green",
+        details: "" 
+	},
+
+	{
+        id:131,
+		name: "Projets",
+		start: "2022-04-28 09:30", 
+		end: "2022-04-28 17:30",
+        color: "green",
+        details: "" 
+	},
+
+	{
+        id:132,
+		name: "Développement d'entreprise - Nour Ezzedeen",
+		start: "2022-04-28 09:30", 
+		end: "2022-04-28 13:00",
+        color: "green",
+        details: "Deze afspraak bevat een videogesprek. Deelnemen: https://meet.google.com/mrk-pgnn-pqb" 
+	},
+
+	{
+        id:133,
+		name: "Project is due",
+		start: "2022-05-01 23:42", 
+		end: "2022-05-01 23:42",
+        color: "green",
+        details: "" 
+	},
+
+	{
+        id:134,
+		name: "ENTREPRISE",
+		start: "2022-05-02 00:00", 
+		end: "2022-05-05 00:00",
+        color: "green",
+        details: "" 
+	},
+
+	{
+        id:135,
+		name: "Projets",
+		start: "2022-05-05 09:30", 
+		end: "2022-05-05 17:30",
+        color: "green",
+        details: "" 
+	},
+
+	{
+        id:136,
+		name: "StratÃ©gies en Design d'Innovation - Nicolas Bry",
+		start: "2022-05-06 09:30", 
+		end: "2022-05-06 13:00",
+        color: "green",
+        details: "" 
+	},
+
+	{
+        id:137,
+		name: "Développement d'entreprise - Nour Ezzedeen",
+		start: "2022-05-06 14:00", 
+		end: "2022-05-06 17:30",
+        color: "green",
+        details: "Deze afspraak bevat een videogesprek. Deelnemen: https://meet.google.com/rzk-tvvs-tgz" 
+	},
+
+	{
+        id:138,
+		name: "ENTREPRISE",
+		start: "2022-05-09 00:00", 
+		end: "2022-05-12 00:00",
+        color: "green",
+        details: "" 
+	},
+
+	{
+        id:139,
+		name: "Projets / Coaching avec Cécile Coursol",
+		start: "2022-05-12 09:30", 
+		end: "2022-05-12 17:30",
+        color: "green",
+        details: "" 
+	},
+
+	{
+        id:140,
+		name: "Développement d'entreprise - Nour Ezzedeen",
+		start: "2022-05-13 09:30", 
+		end: "2022-05-13 13:00",
+        color: "green",
+        details: "Deze afspraak bevat een videogesprek. Deelnemen: https://meet.google.com/rnw-eikr-sqr" 
+	},
+
+	{
+        id:141,
+		name: "ENTREPRISE",
+		start: "2022-05-16 00:00", 
+		end: "2022-05-19 00:00",
+        color: "green",
+        details: "" 
+	},
+
+	{
+        id:142,
+		name: "Projets",
+		start: "2022-05-19 09:30", 
+		end: "2022-05-19 17:30",
+        color: "green",
+        details: "" 
+	},
+
+	{
+        id:143,
+		name: "Développement d'entreprise - Nour Ezzedeen",
+		start: "2022-05-20 09:30", 
+		end: "2022-05-20 13:00",
+        color: "green",
+        details: "Deze afspraak bevat een videogesprek. Deelnemen: https://meet.google.com/znt-xvie-fqo" 
+	},
+
+	{
+        id:144,
+		name: "Product Management - Samuel Athlan",
+		start: "2022-05-20 14:00", 
+		end: "2022-05-20 17:30",
+        color: "green",
+        details: "" 
+	},
+
+	{
+        id:145,
+		name: "ENTREPRISE",
+		start: "2022-05-20 09:30", 
+		end: "2022-05-20 13:00",
+        color: "green",
+        details: "" 
+	},
+
+	{
+        id:145,
+		name: "JOUR FERIE",
+		start: "2022-05-26 00:00", 
+		end: "2022-05-26 00:00",
+        color: "green",
+        details: "" 
+	},
+
+	{
+        id:146,
+		name: "ENTREPRISE",
+		start: "2022-05-27 00:00", 
+		end: "2022-05-27 00:00",
+        color: "green",
+        details: "" 
+	},
+
+	{
+        id:147,
+		name: "ENTREPRISE",
+		start: "2022-05-30 00:00", 
+		end: "2022-06-02 00:00",
+        color: "green",
+        details: "" 
+	},
+
+	{
+        id:148,
+		name: "Projets",
+		start: "2022-06-02 09:30", 
+		end: "2022-06-02 17:30",
+        color: "green",
+        details: "" 
+	},
+
+	{
+        id:149,
+		name: "JOUR FERIE",
+		start: "2022-06-06 00:00", 
+		end: "2022-06-06 00:00",
+        color: "green",
+        details: "" 
+	},
+
+	{
+        id:150,
+		name: "ENTREPRISE",
+		start: "2022-06-07 00:00", 
+		end: "2022-06-09 00:00",
+        color: "green",
+        details: "" 
+	},
+
+	
+	{
+        id:151,
+		name: "Projets / Coaching avec Cécile Coursol",
+		start: "2022-06-09 09:30", 
+		end: "2022-06-09 17:30",
+        color: "green",
+        details: "" 
+	},
+
+	{
+        id:152,
+		name: "Product Management - Samuel Athlan",
+		start: "2022-06-10 09:30", 
+		end: "2022-06-10 13:00",
+        color: "green",
+        details: "" 
+	},
+
+	{
+        id:153,
+		name: "ENTREPRISE",
+		start: "2022-06-13 00:00", 
+		end: "2022-06-16 00:00",
+        color: "green",
+        details: "" 
+	},
+
+	{
+        id:154,
+		name: "Projets",
+		start: "2022-06-16 09:30", 
+		end: "2022-06-16 17:30",
+        color: "green",
+        details: "" 
+	},
+
+	{
+        id:155,
+		name: "Product Management - Samuel Athlan",
+		start: "2022-06-17 09:30", 
+		end: "2022-06-17 13:00",
+        color: "green",
+        details: "" 
+	},
+
+	{
+        id:156,
+		name: "ENTREPRISE",
+		start: "2022-06-20 00:00", 
+		end: "2022-06-23 00:00",
+        color: "green",
+        details: "" 
+	},
+
+	{
+        id:157,
+		name: "Projets",
+		start: "2022-06-23 09:30", 
+		end: "2022-06-23 17:30",
+        color: "green",
+        details: "" 
+	},
+
+	{
+        id:158,
+		name: "Product Management - Samuel Athlan",
+		start: "2022-06-24 09:30", 
+		end: "2022-06-24 13:00",
+        color: "green",
+        details: "" 
+	},
+
+	{
+        id:158,
+		name: "ENTREPRISE",
+		start: "2022-06-27 00:00", 
+		end: "2022-06-30 00:00",
+        color: "green",
+        details: "" 
+	},
+
+	{
+        id:159,
+		name: "Projets",
+		start: "2022-06-30 09:30", 
+		end: "2022-06-30 17:30",
+        color: "green",
+        details: "" 
+	},
+
+	{
+        id:160,
+		name: "ENTREPRISE",
+		start: "2022-07-01 00:00", 
+		end: "2022-07-01 00:00",
+        color: "green",
+        details: "" 
+	},
+
+	{
+        id:161,
+		name: "ENTREPRISE",
+		start: "2022-07-04 00:00", 
+		end: "2022-07-07 00:00",
+        color: "green",
+        details: "" 
+	},
+
+	{
+        id:162,
+		name: "Projets / Coaching avec Cécile Coursol",
+		start: "2022-07-07 09:30", 
+		end: "2022-07-07 17:30",
+        color: "green",
+        details: "" 
+	},
+
+	{
+        id:163,
+		name: "ENTREPRISE",
+		start: "2022-07-11 00:00", 
+		end: "2022-07-14 00:00",
+        color: "green",
+        details: "" 
+	},
+
+	{
+        id:164,
+		name: "JOUR FERIE",
+		start: "2022-07-14 00:00", 
+		end: "2022-07-14 00:00",
+        color: "green",
+        details: "" 
+	},
+
+	{
+        id:164,
+		name: "ENTREPRISE",
+		start: "2022-07-15 00:00", 
+		end: "2022-07-15 00:00",
+        color: "green",
+        details: "" 
+	},
+
+	{
+        id:165,
+		name: "ENTREPRISE",
+		start: "2022-07-18 00:00", 
+		end: "2022-07-20 00:00",
+        color: "green",
+        details: "" 
+	},
+
+	{
+        id:166,
+		name: "Projets / Keynote Voltron",
+		start: "2022-07-20 09:30", 
+		end: "2022-07-20 17:30",
+        color: "green",
+        details: "" 
+	},
+
+	{
+        id:167,
+		name: "Projets / Keynote Voltron",
+		start: "2022-07-21 09:30", 
+		end: "2022-07-21 17:30",
+        color: "green",
+        details: "" 
+	},
+
+	{
+        id:167,
+		name: "Projets / Keynote Voltron",
+		start: "2022-07-22 09:30", 
+		end: "2022-07-22 17:30",
+        color: "green",
+        details: "" 
+	},
+
+	{
+        id:168,
+		name: "ENTREPRISE",
+		start: "2022-07-25 00:00", 
+		end: "2022-08-10 00:00",
+        color: "green",
+        details: "" 
+	},
+	
 
     ]
 };
